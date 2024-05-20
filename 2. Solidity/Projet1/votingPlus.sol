@@ -310,4 +310,3 @@ contract Voting is Ownable {
         emit WorkflowStatusChange(WorkflowStatus.RunoffVotingEnded, WorkflowStatus.VotesTallied);
     }
 }
-```
