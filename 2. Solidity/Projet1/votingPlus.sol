@@ -1,7 +1,4 @@
-Bien sûr, voici la documentation en français pour le contrat avec les `require` laissés en anglais :
-
-```solidity
-// SPDX-License-Identifier: MIT
+SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
 import "@openzeppelin/contracts/access/Ownable.sol";
